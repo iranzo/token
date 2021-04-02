@@ -41,10 +41,10 @@ tags: [metamask, wallet]
                 params: {
                     type: 'ERC20',
                     options: {
-                        address: '0x63e62989d9eb2d37dfdb1f93a22f063635b07d51',
-                        symbol: 'MIVA',
+                        address: '{{ token.contract }}',
+                        symbol: '{{ token.name }}',
                         decimals: 18,
-                        image: 'https://dev.lab10.io/minerva/MIVA_Logo.svg',
+                        image: '{{ token.image}}',
                     }
                 },
             }, console.log);

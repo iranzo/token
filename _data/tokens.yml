@@ -1,4 +1,6 @@
-mytoken:
+MIVA:
     name: MIVA
     network: xDai
     contract: 0x63e62989D9EB2d37dfDB1F93A22f063635b07d51
+    image: 'https://dev.lab10.io/minerva/MIVA_Logo.svg'
+
