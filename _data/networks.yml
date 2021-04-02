@@ -1,0 +1,13 @@
+xDai:
+    name: xDai
+    Symbol: xDai
+    RPCURL: "https://rpc.xdaichain.com"
+    ID: 100
+    blockexplorer: "https://blockscout.com/xdai/mainnet"
+
+BSC:
+    name: Smart Chain
+    Symbol: BNB
+    RPCURL: "https://bsc-dataseed.binance.org/"
+    ID: 56
+    blockexplorer: "https://bscscan.com"
