@@ -1,5 +1,5 @@
 ---
-title: Click on the token you want to add
+title: Add tokens to Metamask
 tags: [metamask, wallet]
 ---
 
