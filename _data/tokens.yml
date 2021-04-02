@@ -18,43 +18,43 @@ xHOPR:
 
 BTCST:
     name: BTCST
-    network: Smart Chain
+    network: BSC
     contract: 0x78650B139471520656B9E7AA7A5E9276814A38E9
     image: ''
 
 BTCB:
     name: BTCB
-    network: Smart Chain
+    network: BSC
     contract: 0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c
     image: ''
 
 HOPE:
     name: HOPE
-    network: Smart Chain
+    network: BSC
     contract: 0xd670af9aec073f531e3ed4ec44bb6959ea11668b
     image: ''
 
 HOPR:
     name: HOPR
-    network: Smart Chain
+    network: BSC
     contract: 0xb210138272add6e072c0f790e6582298ac51a53d
     image: ''
 
 MGB:
     name: MGB
-    network: Smart Chain
+    network: BSC
     contract: 0xf78839b9e972cf15014843a7ca5ebf1e321a284c
     image: ''
 
 AIOZ:
     name: AIOZ
-    network: Smart Chain
+    network: BSC
     contract: 0x33d08d8c7a168333a85285a68c0042b39fc3741d
     image: ''
 
 τBTC:
     name: τBTC
-    network: Smart Chain
+    network: BSC
     contract: 0x2cD1075682b0FCCaADd0Ca629e138E64015Ba11c
     image: ''
 
