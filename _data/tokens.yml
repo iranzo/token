@@ -1,95 +1,95 @@
 MIVA:
     name: MIVA
     network: xDai
-    contract: 0x63e62989D9EB2d37dfDB1F93A22f063635b07d51
+    contract: "0x63e62989D9EB2d37dfDB1F93A22f063635b07d51"
     image: 'https://dev.lab10.io/minerva/MIVA_Logo.svg'
 
 wxHOPR:
     name: wxHOPR
     network: xDai
-    contract: 0xD4fdec44DB9D44B8f2b6d529620f9C0C7066A2c1
+    contract: "0xD4fdec44DB9D44B8f2b6d529620f9C0C7066A2c1"
     image: ''
 
 xHOPR:
     name: xHOPR
     network: xDai
-    contract: 0xD057604A14982FE8D88c5fC25Aac3267eA142a08
+    contract: "0xD057604A14982FE8D88c5fC25Aac3267eA142a08"
     image: ''
 
 BTCST:
     name: BTCST
     network: BSC
-    contract: 0x78650B139471520656B9E7AA7A5E9276814A38E9
+    contract: "0x78650B139471520656B9E7AA7A5E9276814A38E9"
     image: ''
 
 BTCB:
     name: BTCB
     network: BSC
-    contract: 0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c
+    contract: "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c"
     image: ''
 
 HOPE:
     name: HOPE
     network: BSC
-    contract: 0xd670af9aec073f531e3ed4ec44bb6959ea11668b
+    contract: "0xd670af9aec073f531e3ed4ec44bb6959ea11668b"
     image: ''
 
 HOPR:
     name: HOPR
     network: BSC
-    contract: 0xb210138272add6e072c0f790e6582298ac51a53d
+    contract: "0xb210138272add6e072c0f790e6582298ac51a53d"
     image: ''
 
 MGB:
     name: MGB
     network: BSC
-    contract: 0xf78839b9e972cf15014843a7ca5ebf1e321a284c
+    contract: "0xf78839b9e972cf15014843a7ca5ebf1e321a284c"
     image: ''
 
 AIOZ:
     name: AIOZ
     network: BSC
-    contract: 0x33d08d8c7a168333a85285a68c0042b39fc3741d
+    contract: "0x33d08d8c7a168333a85285a68c0042b39fc3741d"
     image: ''
 
 τBTC:
     name: τBTC
     network: BSC
-    contract: 0x2cD1075682b0FCCaADd0Ca629e138E64015Ba11c
+    contract: "0x2cD1075682b0FCCaADd0Ca629e138E64015Ba11c"
     image: ''
 
 AIOZ:
     name: AIOZ
     network: Ethereum
-    contract: 0x626e8036deb333b408be468f951bdb42433cbf18
+    contract: "0x626e8036deb333b408be468f951bdb42433cbf18"
     image: ''
 
 REW:
     name: REW
     network: Ethereum
-    contract: 0x3ffffa8f3cc943e43f9f17a83cbb18f4bbb9f4ac
+    contract: "0x3ffffa8f3cc943e43f9f17a83cbb18f4bbb9f4ac"
     image: ''
 
 HOPR:
     name: HOPR
     network: Ethereum
-    contract: 0xF5581dFeFD8Fb0e4aeC526bE659CFaB1f8c781dA
+    contract: "0xF5581dFeFD8Fb0e4aeC526bE659CFaB1f8c781dA"
     image: ''
 
 TRX:
     name: TRX
     network: Ethereum
-    contract: 0xf230b790E05390FC8295F4d3F60332c93BEd42e2
+    contract: "0xf230b790E05390FC8295F4d3F60332c93BEd42e2"
     image: ''
 
 RAGE:
     name: RAGE
     network: Ethereum
-    contract: 0x94804dc4948184ffd7355f62ccbb221c9765886f
+    contract: "0x94804dc4948184ffd7355f62ccbb221c9765886f"
     image: ''
 
 FORCE:
     name: FORCE
     network: Ethereum
-    contract: 0x6807d7f7df53b7739f6438eabd40ab8c262c0aa8
+    contract: "0x6807d7f7df53b7739f6438eabd40ab8c262c0aa8"
     image: ''
