@@ -93,3 +93,15 @@ FORCE:
     network: Ethereum
     contract: "0x6807d7f7df53b7739f6438eabd40ab8c262c0aa8"
     image: ''
+
+DAI:
+    name: DAI
+    network: Ethereum
+    image: "http://etherscan.io/token/images/MCDDai_32.png"
+    contract: "0x6b175474e89094c44da98b954eedeac495271d0f"
+
+BNB:
+    name: BNB
+    contract: "0xB8c77482e45F1F44dE1745F52C74426C631bDD52"
+    image: "http://etherscan.io/token/images/bnb_28_2.png"
+    network: Ethereum

@@ -14,7 +14,7 @@ tags: [metamask, wallet]
 <div class="buttonWrapper">
     <button class="add{{token.name}}" type="button">Add
             <span>${{ token.name }}</span> to your
-            <span>wallet</span>
+            <span>wallet</span> on network {{ network.friendly }}
     </button>
 </div>
 
@@ -25,6 +25,8 @@ document.querySelector('.add{{ token.name }}').addEventListener('click', (e) => 
         alert('No Wallet found.');
         return;
     };
+
+{% if network.friendly != "Ethereum" %}
 
     window.ethereum.request({
         method: 'wallet_addEthereumChain',
@@ -41,6 +43,8 @@ document.querySelector('.add{{ token.name }}').addEventListener('click', (e) => 
         }, ],
         id: 1,
     }, console.log);
+
+{% endif %}
 
     window.ethereum.request({
            method: 'wallet_watchAsset',

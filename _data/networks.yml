@@ -13,3 +13,9 @@ BSC:
     RPCURL: "https://bsc-dataseed.binance.org/"
     ID: "0x38"
     blockexplorer: "https://bscscan.com"
+
+
+Ethereum:
+    name: Ethereum
+    friendly: "Ethereum"
+    Symbol: ETH
