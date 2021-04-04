@@ -12,6 +12,7 @@ tags: [metamask, wallet]
 {% if token.network == network.friendly  %}
 
 <div class="buttonWrapper">
+<img src='{{token.image}}' height=32 widht=32>
     <button class="add{{token.name}}" type="button">Add
             <span>${{ token.name }}</span> to your
             <span>wallet</span> on network {{ network.friendly }}
