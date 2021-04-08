@@ -56,7 +56,7 @@ AIOZ:
     name: τBTC
     network: BSC
     contract: "0x2cD1075682b0FCCaADd0Ca629e138E64015Ba11c"
-    image: ''
+    image: 'https://s2.coinmarketcap.com/static/img/coins/64x64/9114.png'
 
 AIOZ:
     name: AIOZ
