@@ -105,3 +105,9 @@ BNB:
     contract: "0xB8c77482e45F1F44dE1745F52C74426C631bDD52"
     image: "http://etherscan.io/token/images/bnb_28_2.png"
     network: Ethereum
+
+BUSDT:
+    name: BUSDT
+    contract: "0x55d398326f99059ff775485246999027b3197955"
+    image: "https://bscscan.com/token/images/busdt_32.png"
+    network: BSC
