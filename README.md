@@ -1,4 +1,8 @@
-# Test changes locally
+# Token adder for metatamask
+
+Check [iranzo.io/token](https://iranzo.io/token) to access the generated web interface for adding tokens to your metamask wallet.
+
+## Test changes locally
 
 ```sh
 mkdir .jekyll-cache
