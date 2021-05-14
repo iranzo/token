@@ -117,3 +117,8 @@ BUSDT:
     contract: "0x55d398326f99059ff775485246999027b3197955"
     image: "https://bscscan.com/token/images/busdt_32.png"
     network: BSC
+
+tauDoGE:
+    name: τDOGE
+    contract: "0xe550a593d09fbc8dcd557b5c88cea6946a8b404a"
+    network: BSC
