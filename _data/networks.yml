@@ -19,3 +19,12 @@ Ethereum:
     name: Ethereum
     friendly: "Ethereum"
     Symbol: ETH
+
+
+Matic:
+  name: Matic
+  friendly: "Matic"
+  Symbol: "MATIC"
+  RPCURL: "https://rpc-mainnet.maticvigil.com/"
+  ID: "0x89"
+  blockexplorer: "https://polygonscan.com/"
