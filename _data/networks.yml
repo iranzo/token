@@ -28,3 +28,12 @@ Matic:
   RPCURL: "https://rpc-mainnet.maticvigil.com/"
   ID: "0x89"
   blockexplorer: "https://polygonscan.com/"
+
+
+Avax:
+  name: Avax
+  friendly: "Avax"
+  Symbol: "AVAX"
+  RPCURL: "https://api.avax.network/ext/bc/C/rpc"
+  ID: "0xA86A"
+  blockexplorer: "https://cchain.explorer.avax.network/"

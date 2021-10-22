@@ -133,4 +133,9 @@ mHOPR:
   name: mHOPR
   contract: "0x6F80d1a3AB9006548c2fBb180879b87364D63Bf7"
   network: Matic
-  
+
+
+wAVAX:
+  name: wAVAX
+  contract: "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7"
+  network: Avax
